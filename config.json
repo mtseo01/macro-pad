@@ -1,0 +1,13 @@
+{
+    "_comment1": "설정 방법: '키이름': '복사할 메세지' 형식으로 작성하세요.",
+    "_comment2": "줄바꿈은 \\n 을 사용하고, 큰따옴표는 \\\" 로 입력해야 합니다.",
+    "_comment3": "F13부터 F24까지 설정 가능합니다.",
+    
+    "f13": "안녕하세요!\n반갑습니다.\n\n이것은 줄바꿈이 포함된 긴 메세지 테스트입니다.",
+    
+    "f14": "Long text example: This is a very long string that can go up to 1000 characters or more. \nJust keep typing it in one line within the quotes. \nYou can use \"Double Quotes\" like this using a backslash.",
+    
+    "f15": "こんにちは！\n日本語のメッセージも問題なく「パッ！」と入力されます。\nよろしくお願いします。",
+    
+    "f16": "여러 줄로 구성된 복잡한 양식 예시:\n------------------------------\n담당자: 홍길동\n연락처: 010-1234-5678\n내용: 요청하신 자료 보냅니다.\n------------------------------"
+}
